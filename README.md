@@ -140,3 +140,8 @@ For pull requests, please stick to the following guidelines:
 * Follow the existing code style (e.g., indents).
 * Put a lot of comments into the code, if necessary.
 * Separate unrelated changes into multiple pull requests.
+* ## About Personalised Celestia
+* Personalised Celestia isn't an addon, but an enhanced version of the original Celestia.
+* More features such as planet surfaces and skins have been added in this version. 
+* Currently working on increasing Catalog and adding other sky cultures other than the Western Sky culture.
+* 
